@@ -1,5 +1,5 @@
 # RSI_TakeABreak
-# This program will sleep for an hour and then play a song
+# This program will remind you every 90 minutes to take a break
 #
 import time
 import webbrowser
